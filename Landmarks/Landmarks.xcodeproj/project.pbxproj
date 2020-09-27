@@ -31,6 +31,7 @@
 		F0957565251E3D38004A7FDE /* turtlerock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0957558251E3D38004A7FDE /* turtlerock.jpg */; };
 		F0957567251E3D38004A7FDE /* stmarylake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F095755A251E3D38004A7FDE /* stmarylake.jpg */; };
 		F0957568251E3D38004A7FDE /* yukon_charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F095755B251E3D38004A7FDE /* yukon_charleyrivers.jpg */; };
+		F095756A25205891004A7FDE /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F095756925205891004A7FDE /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		F0957558251E3D38004A7FDE /* turtlerock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = turtlerock.jpg; sourceTree = "<group>"; };
 		F095755A251E3D38004A7FDE /* stmarylake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stmarylake.jpg; sourceTree = "<group>"; };
 		F095755B251E3D38004A7FDE /* yukon_charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yukon_charleyrivers.jpg; sourceTree = "<group>"; };
+		F095756925205891004A7FDE /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				F095750B251E1A47004A7FDE /* SceneDelegate.swift */,
 				F095750D251E1A47004A7FDE /* LandmarkDetail.swift */,
 				F095754D251E3AC2004A7FDE /* LandmarkRow.swift */,
+				F095756925205891004A7FDE /* LandmarkList.swift */,
 				F095750F251E1A49004A7FDE /* Assets.xcassets */,
 				F095751D251E22BC004A7FDE /* CircleImage.swift */,
 				F095751F251E2A53004A7FDE /* MapView.swift */,
@@ -233,6 +236,7 @@
 				F095750A251E1A47004A7FDE /* AppDelegate.swift in Sources */,
 				F095751E251E22BC004A7FDE /* CircleImage.swift in Sources */,
 				F0957520251E2A53004A7FDE /* MapView.swift in Sources */,
+				F095756A25205891004A7FDE /* LandmarkList.swift in Sources */,
 				F095750C251E1A47004A7FDE /* SceneDelegate.swift in Sources */,
 				F095750E251E1A47004A7FDE /* LandmarkDetail.swift in Sources */,
 				F095754E251E3AC2004A7FDE /* LandmarkRow.swift in Sources */,
