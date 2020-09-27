@@ -94,14 +94,14 @@
 		F0957508251E1A47004A7FDE /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
+				F095750F251E1A49004A7FDE /* Assets.xcassets */,
 				F0957548251E36F3004A7FDE /* Resources */,
 				F0957545251E353E004A7FDE /* Models */,
 				F0957509251E1A47004A7FDE /* AppDelegate.swift */,
 				F095750B251E1A47004A7FDE /* SceneDelegate.swift */,
-				F095750D251E1A47004A7FDE /* LandmarkDetail.swift */,
-				F095754D251E3AC2004A7FDE /* LandmarkRow.swift */,
 				F095756925205891004A7FDE /* LandmarkList.swift */,
-				F095750F251E1A49004A7FDE /* Assets.xcassets */,
+				F095754D251E3AC2004A7FDE /* LandmarkRow.swift */,
+				F095750D251E1A47004A7FDE /* LandmarkDetail.swift */,
 				F095751D251E22BC004A7FDE /* CircleImage.swift */,
 				F095751F251E2A53004A7FDE /* MapView.swift */,
 				F0957514251E1A49004A7FDE /* LaunchScreen.storyboard */,
