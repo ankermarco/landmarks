@@ -19,16 +19,15 @@ struct BadgeBackground: View {
                 width *= xScale
                 path.move(
                     to: CGPoint(
-                        x: xOffset + width * 0.89,
-                        y: height * (0.20 + HexagonParameters.adjustment
-                        )
+                        x: xOffset + width * 0.95,
+                        y: height * (0.20 + HexagonParameters.adjustment)
                     )
                 )
                 
                 HexagonParameters.points.forEach {
                     path.addLine(
                         to: .init(
-                            x: xOffset + width + $0.useWidth.0 * $0.xFactors.0,
+                            x: xOffset + width * $0.useWidth.0 * $0.xFactors.0,
                             y: height * $0.useHeight.0 * $0.yFactors.0
                         )
                     )
