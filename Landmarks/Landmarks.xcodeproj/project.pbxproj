@@ -32,6 +32,7 @@
 		F0957567251E3D38004A7FDE /* stmarylake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F095755A251E3D38004A7FDE /* stmarylake.jpg */; };
 		F0957568251E3D38004A7FDE /* yukon_charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F095755B251E3D38004A7FDE /* yukon_charleyrivers.jpg */; };
 		F095756A25205891004A7FDE /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F095756925205891004A7FDE /* LandmarkList.swift */; };
+		F095756C252065BE004A7FDE /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F095756B252065BE004A7FDE /* charleyrivers.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		F095755A251E3D38004A7FDE /* stmarylake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stmarylake.jpg; sourceTree = "<group>"; };
 		F095755B251E3D38004A7FDE /* yukon_charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yukon_charleyrivers.jpg; sourceTree = "<group>"; };
 		F095756925205891004A7FDE /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		F095756B252065BE004A7FDE /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 				F0957556251E3D38004A7FDE /* chincoteague.jpg */,
 				F0957557251E3D38004A7FDE /* hiddenlake.jpg */,
 				F0957554251E3D38004A7FDE /* icybay.jpg */,
+				F095756B252065BE004A7FDE /* charleyrivers.jpg */,
 				F0957550251E3D37004A7FDE /* lakemcdonald.jpg */,
 				F0957552251E3D38004A7FDE /* rainbowlake.jpg */,
 				F0957555251E3D38004A7FDE /* silversalmoncreek.jpg */,
@@ -213,6 +216,7 @@
 				F095755E251E3D38004A7FDE /* chilkoottrail.jpg in Resources */,
 				F095755C251E3D38004A7FDE /* twinlake.jpg in Resources */,
 				F095754A251E370C004A7FDE /* landmarkData.json in Resources */,
+				F095756C252065BE004A7FDE /* charleyrivers.jpg in Resources */,
 				F095755F251E3D38004A7FDE /* rainbowlake.jpg in Resources */,
 				F0957563251E3D38004A7FDE /* chincoteague.jpg in Resources */,
 				F0957567251E3D38004A7FDE /* stmarylake.jpg in Resources */,
