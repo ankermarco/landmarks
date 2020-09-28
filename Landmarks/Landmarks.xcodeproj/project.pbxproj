@@ -33,6 +33,7 @@
 		F0957568251E3D38004A7FDE /* yukon_charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F095755B251E3D38004A7FDE /* yukon_charleyrivers.jpg */; };
 		F095756A25205891004A7FDE /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F095756925205891004A7FDE /* LandmarkList.swift */; };
 		F095756C252065BE004A7FDE /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F095756B252065BE004A7FDE /* charleyrivers.jpg */; };
+		F095756E2521FFD5004A7FDE /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F095756D2521FFD5004A7FDE /* UserData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		F095755B251E3D38004A7FDE /* yukon_charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yukon_charleyrivers.jpg; sourceTree = "<group>"; };
 		F095756925205891004A7FDE /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		F095756B252065BE004A7FDE /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
+		F095756D2521FFD5004A7FDE /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				F095750D251E1A47004A7FDE /* LandmarkDetail.swift */,
 				F095751D251E22BC004A7FDE /* CircleImage.swift */,
 				F095751F251E2A53004A7FDE /* MapView.swift */,
+				F095756D2521FFD5004A7FDE /* UserData.swift */,
 				F0957514251E1A49004A7FDE /* LaunchScreen.storyboard */,
 				F0957517251E1A49004A7FDE /* Info.plist */,
 				F0957511251E1A49004A7FDE /* Preview Content */,
@@ -244,6 +247,7 @@
 				F095750C251E1A47004A7FDE /* SceneDelegate.swift in Sources */,
 				F095750E251E1A47004A7FDE /* LandmarkDetail.swift in Sources */,
 				F095754E251E3AC2004A7FDE /* LandmarkRow.swift in Sources */,
+				F095756E2521FFD5004A7FDE /* UserData.swift in Sources */,
 				F0957547251E3551004A7FDE /* Landmark.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
