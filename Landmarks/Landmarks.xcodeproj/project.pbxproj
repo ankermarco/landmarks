@@ -45,6 +45,7 @@
 		F09575812522368D004A7FDE /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = F09575802522368D004A7FDE /* hikeData.json */; };
 		F095758325223DA0004A7FDE /* GraphCapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = F095758225223DA0004A7FDE /* GraphCapsule.swift */; };
 		F095758525224496004A7FDE /* HikeDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = F095758425224496004A7FDE /* HikeDetail.swift */; };
+		F09575872523B89B004A7FDE /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = F09575862523B89B004A7FDE /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -88,6 +89,7 @@
 		F09575802522368D004A7FDE /* hikeData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
 		F095758225223DA0004A7FDE /* GraphCapsule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphCapsule.swift; sourceTree = "<group>"; };
 		F095758425224496004A7FDE /* HikeDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeDetail.swift; sourceTree = "<group>"; };
+		F09575862523B89B004A7FDE /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 				F0957545251E353E004A7FDE /* Models */,
 				F0957509251E1A47004A7FDE /* AppDelegate.swift */,
 				F095750B251E1A47004A7FDE /* SceneDelegate.swift */,
+				F09575862523B89B004A7FDE /* Home.swift */,
 				F095756925205891004A7FDE /* LandmarkList.swift */,
 				F095754D251E3AC2004A7FDE /* LandmarkRow.swift */,
 				F095750D251E1A47004A7FDE /* LandmarkDetail.swift */,
@@ -294,6 +297,7 @@
 				F0957579252228E3004A7FDE /* RotatedBadgeSymbol.swift in Sources */,
 				F095750C251E1A47004A7FDE /* SceneDelegate.swift in Sources */,
 				F0957575252224E9004A7FDE /* BadgeBackground.swift in Sources */,
+				F09575872523B89B004A7FDE /* Home.swift in Sources */,
 				F095750E251E1A47004A7FDE /* LandmarkDetail.swift in Sources */,
 				F095754E251E3AC2004A7FDE /* LandmarkRow.swift in Sources */,
 				F095756E2521FFD5004A7FDE /* UserData.swift in Sources */,
