@@ -46,6 +46,7 @@
 		F095758325223DA0004A7FDE /* GraphCapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = F095758225223DA0004A7FDE /* GraphCapsule.swift */; };
 		F095758525224496004A7FDE /* HikeDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = F095758425224496004A7FDE /* HikeDetail.swift */; };
 		F09575872523B89B004A7FDE /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = F09575862523B89B004A7FDE /* Home.swift */; };
+		F09575892523BB2E004A7FDE /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F09575882523BB2E004A7FDE /* CategoryRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -90,6 +91,7 @@
 		F095758225223DA0004A7FDE /* GraphCapsule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphCapsule.swift; sourceTree = "<group>"; };
 		F095758425224496004A7FDE /* HikeDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeDetail.swift; sourceTree = "<group>"; };
 		F09575862523B89B004A7FDE /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		F09575882523BB2E004A7FDE /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 				F0957509251E1A47004A7FDE /* AppDelegate.swift */,
 				F095750B251E1A47004A7FDE /* SceneDelegate.swift */,
 				F09575862523B89B004A7FDE /* Home.swift */,
+				F09575882523BB2E004A7FDE /* CategoryRow.swift */,
 				F095756925205891004A7FDE /* LandmarkList.swift */,
 				F095754D251E3AC2004A7FDE /* LandmarkRow.swift */,
 				F095750D251E1A47004A7FDE /* LandmarkDetail.swift */,
@@ -284,6 +287,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F09575892523BB2E004A7FDE /* CategoryRow.swift in Sources */,
 				F095757325221DA3004A7FDE /* HexagonParameters.swift in Sources */,
 				F095754C251E393B004A7FDE /* Data.swift in Sources */,
 				F095750A251E1A47004A7FDE /* AppDelegate.swift in Sources */,
